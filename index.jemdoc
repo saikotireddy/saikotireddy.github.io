@@ -1,4 +1,5 @@
 # jemdoc: menu{MENU}{example.html}
+\n
 = Danda Sai Koti Reddy\n
 
 
@@ -11,18 +12,19 @@ Project Assistant,\n
 [http://www.csa.iisc.ernet.in Department of Computer Science and Automation (CSA)],\n
 Indian Institute of Science, \n Bangalore - 560 012
 \n
-\n
-[https://saikotireddy.github.io/resume.pdf Curriculum Vitae] 
+\n 
+Email: danda.reddy@csa.iisc.ernet.in\n
+Contact No: +91-9632145457
 ~~~
 
-\n\n#I am advised by Prof. Shalabh Bhatnagar.
 
 
-== Contact
-Email: danda.reddy@csa.iisc.ernet.in
 
-== Research Lab
-Stochastic Systems Lab,\n
-Dept of CSA,\n
-IISc \n
-Contact No: +91-80-22932368
+#== Contact
+
+
+#== Research Lab
+#Stochastic Systems Lab,\n
+#Dept of CSA,\n
+#IISc \n
+#Contact No: +91-80-22932368

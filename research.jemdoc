@@ -1,14 +1,17 @@
 # jemdoc: menu{MENU}{research.html}
-= Research Interests
-
 \n
-= Theory
+= Research Interests
+\n
+~~~
+== Theory
 \n
 - Reinforcement Learning \n
 - Stochastic Control and Optimization
-
+~~~
 \n
-= Applications
+~~~
+== Applications
 \n
 - Smart grids \n
 - Autonomous control of UAV drones
+~~~
