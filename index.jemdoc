@@ -6,7 +6,7 @@
 
 ~~~
 {}{img_left}{solo.jpg}{alt text}{200px}{200px}
-Project Assistant,\n
+\n
 [http://stochastic.csa.iisc.ernet.in Stochastic Systems Lab],\n
 [http://www.csa.iisc.ernet.in Department of Computer Science and Automation (CSA)],\n
 Indian Institute of Science, \n Bangalore - 560 012
@@ -15,13 +15,16 @@ Indian Institute of Science, \n Bangalore - 560 012
 Email: danda.reddy@csa.iisc.ernet.in\n
 Contact No: +91-9632145457
 ~~~
+\n
+\n
+\n
 
 
-
-
-#== Contact
-
-
+~~~
+== News and Activities
+- [Jul-2017:] Accepted Pre-Placement Offer from [https://www.research.ibm.com/labs/india/ IBM India Research Lab] and going to work on [http://researcher.watson.ibm.com/researcher/view_group.php?id=7284 Blockchain and Smart Contracts Project].\n
+- [Dec-2016:] Attended [http://cdc2016.ieeecss.org 55th IEEE Conference on Decision and Control] at Las Vegas, USA to present work on estimating Hessian in simulation optimisation setting [https://css.paperplaza.net/conferences/conferences/CDC16/program/CDC16_ContentListWeb_2.html\#tub07_05 in this session].\n
+~~~
 #== Research Lab
 #Stochastic Systems Lab,\n
 #Dept of CSA,\n
