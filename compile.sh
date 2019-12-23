@@ -7,4 +7,5 @@
 ./jemdoc.py education.jemdoc 
 ./jemdoc.py wexp.jemdoc 
 ./jemdoc.py service.jemdoc 
+./jemdoc.py awards.jemdoc 
 
