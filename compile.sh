@@ -9,4 +9,6 @@
 ./jemdoc.py service.jemdoc 
 ./jemdoc.py awards.jemdoc 
 ./jemdoc.py patents.jemdoc
+./jemdoc.py research.jemdoc
+./jemdoc.py service.jemdoc
 
